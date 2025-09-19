@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <baseObject>Referral</baseObject>
+    <category>other</category>
+    <deployed>true</deployed>
+    <description>Referrals</description>
+    <label>Referrals</label>
+    <sections>
+        <masterLabel>Referrals</masterLabel>
+    </sections>
+</ReportType>

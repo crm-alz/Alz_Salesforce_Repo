@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <baseObject></baseObject>
+    <category>other</category>
+    <deployed>true</deployed>
+    <description>Funding Opportunities with Applications</description>
+    <label>Funding Opportunities with Applications</label>
+    <sections>
+        <masterLabel>Funding Opportunities</masterLabel>
+    </sections>
+    <sections>
+        <masterLabel>Individual Applications</masterLabel>
+    </sections>
+</ReportType>
